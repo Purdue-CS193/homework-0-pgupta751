@@ -1,3 +1,14 @@
+# Priyam's First CS193 Homework
+
+
+## My favourite things about CS193
+- My Instructors
+- Ice Breakers during the start of class
+- People who I sit next to
+- My friends
+- Class content
+- Terminal knowledge
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
